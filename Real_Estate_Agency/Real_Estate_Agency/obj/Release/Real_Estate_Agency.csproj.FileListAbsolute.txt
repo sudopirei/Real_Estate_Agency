@@ -1,0 +1,11 @@
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\bin\Release\Real_Estate_Agency.exe.config
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\bin\Release\Real_Estate_Agency.exe
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\bin\Release\Real_Estate_Agency.pdb
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.csproj.AssemblyReference.cache
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.Form1.resources
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.Properties.Resources.resources
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.csproj.GenerateResource.cache
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.csproj.CoreCompileInputs.cache
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.exe
+C:\Users\egork\Projects\Help_To_Students\Sokolov_Dima\Real_Estate_Agency\Real_Estate_Agency\obj\Release\Real_Estate_Agency.pdb
